@@ -1,0 +1,31 @@
+@media(max-width: 1175px){
+    
+    .offer_title{
+        text-align: center;
+    }
+    .offer_subtitle{
+        text-align: center;
+    }
+    .offer_button{
+        display: flex;
+        justify-content: center;
+    }
+    .catalog{
+        display: none;
+    }
+    .comfort_text{
+        text-align: center;
+    }
+    .comfort_text p{
+        text-align: center;
+    }
+    .our_clients{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .our_clients_cards{
+     flex-wrap: wrap;
+    }
+}
